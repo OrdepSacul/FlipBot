@@ -18,6 +18,8 @@ used to entertain his peers during his absense (Or just because).
 2. Type !flip to check available commands.
 3. Knock yourself out.
 
+Note: Bot only works in p2p chats. To create a new p2p chat use /createmoderatedchat in Skype.
+
 ## Important notes
 
 Microsoft is in proceed to kill third party API for Skype.
