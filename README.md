@@ -29,3 +29,7 @@ Change.org petition to stop Microsoft
 http://www.theregister.co.uk/2013/11/07/skype_desktop_u_turn/
 
 http://voiceontheweb.biz/skype-world/skype-markets-skype-world/skype-for-business/skype-abandoning-developers-inviting-user-backlash/
+
+## This software is no longer supported. Check new Skype Bot Framework.
+
+**Microsoft Bot Framework for Skype:** https://dev.botframework.com/
